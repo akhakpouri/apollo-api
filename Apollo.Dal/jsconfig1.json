@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=(local);Database=apollo;User Id=apollo;Password=Password@123;MultipleActiveResultSets=true"
+  }
+}
